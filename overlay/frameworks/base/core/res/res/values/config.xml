@@ -702,7 +702,10 @@
          the predefined and translated strings in the Settings
          app, they can be remapped here. The format is
          "oldname:newname", one per entry. -->
-    <integer name="config_deviceLightCapabilities">232</integer>		 
+    <integer name="config_deviceLightCapabilities">232</integer>	
+     
+     <!-- Display has physical cutout -->
+    <bool name="config_physicalDisplayCutout">true</bool>
   
     <!-- Default state for LiveDisplay -->
     <bool name="config_liveDisplayAvailable">true</bool>  
