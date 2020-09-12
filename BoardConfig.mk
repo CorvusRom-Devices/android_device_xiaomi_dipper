@@ -12,6 +12,7 @@ BUILD_BROKEN_DUP_RULES := true
 DEVICE_PATH := device/xiaomi/dipper
 
 BOARD_VNDK_VERSION := current
+BOARD_VNDK_RUNTIME_DISABLE := true
 
 # Assert
 TARGET_OTA_ASSERT_DEVICE := dipper
