@@ -15,4 +15,6 @@
              <!-- Corvus maintainer -->
     <string name="maintainer">Maintainer</string> 
     <string name="corvus_maintainer">Jullian14</string>
+     <!-- Display has physical cutout -->
+    <bool name="config_physicalDisplayCutout">true</bool>
     </resources>
