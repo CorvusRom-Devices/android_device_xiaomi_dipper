@@ -7,8 +7,7 @@
   {
     "repository" : "android_kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/sdm845",
-    "branch"     : "10",
-    "remote"     : "github"
+    "branch"     : "10"
   },
   {
     "repository" : "LineageOS/android_hardware_xiaomi",
